@@ -2,6 +2,9 @@
 	"cSpell.words": [
 		"lemmatize",
 		"lemmatizer",
-		"nltk"
+		"nltk",
+		"pyplot",
+		"scipy",
+		"Vectorizer"
 	]
 }
