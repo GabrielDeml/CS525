@@ -9,3 +9,4 @@
 * https://nadbordrozd.github.io/blog/2016/05/20/text-classification-with-word2vec/
 * https://towardsdatascience.com/how-to-train-bert-aaad00533168
 * https://huggingface.co/transformers/training.html
+* https://www.analyticsvidhya.com/blog/2020/07/transfer-learning-for-nlp-fine-tuning-bert-for-text-classification/
