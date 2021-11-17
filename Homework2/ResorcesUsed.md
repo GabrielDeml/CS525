@@ -10,3 +10,6 @@
 * https://towardsdatascience.com/how-to-train-bert-aaad00533168
 * https://huggingface.co/transformers/training.html
 * https://www.analyticsvidhya.com/blog/2020/07/transfer-learning-for-nlp-fine-tuning-bert-for-text-classification/
+* https://www.analyticsvidhya.com/blog/2021/06/why-and-how-to-use-bert-for-nlp-text-classification/
+* https://huggingface.co/transformers/custom_datasets.html
+* https://towardsdatascience.com/fine-tuning-hugging-face-model-with-custom-dataset-82b8092f5333
